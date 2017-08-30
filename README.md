@@ -1,2 +1,8 @@
-# rev-A-Hardware-OBSOLETE
-Initial Hardware Designs
+## Go [HERE](https://github.com/Tympan/Tympan_Rev_C_Hardware) for the latest hardware version
+# THE FILES IN THIS REPO ARE OBSOLETE DO NOT USE
+## Tympan rev A Hardware
+BE WARNED!
+
+THIS REPOSITORY CONTAINS HARDWARE DESIGNS WITH KNOWN ISSUES!
+
+TYMPAN HOSTS THIS REPOSITORY FOR HISTORICAL PRPOSES ONLY. IT WILL NOT BE SUPPORTED.
